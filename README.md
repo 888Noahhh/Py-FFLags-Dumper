@@ -34,7 +34,7 @@ Supports 4 export formats:
 ## Usage
 
 ```bash
-python fflag_dumper.py
+python 888Noah.py
 ```
 
 Just run it while Roblox is open and it'll dump everything automatically.
@@ -49,4 +49,4 @@ Just run it while Roblox is open and it'll dump everything automatically.
 
 ---
 
-> For educational and research purposes only.
+> https://discord.gg/Dqtb9kY5uR
