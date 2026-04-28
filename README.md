@@ -52,6 +52,7 @@ Just run it while Roblox is open and it'll dump everything automatically.
 ## Release
 
 Download the release standalone app:
+
 **[Release](https://github.com/888Noahhh/Py-FFLags-Dumper/releases/tag/v1)**
 
 ---
