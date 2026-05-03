@@ -60,6 +60,6 @@ Download the release standalone app:
 ## Community
 
 Join the Discord for support and updates:
-**[discord.gg/Dqtb9kY5uR](https://discord.gg/Belatstrap)**
+**[discord.gg/Belatstrap](https://discord.gg/Belatstrap)**
 
 ---
