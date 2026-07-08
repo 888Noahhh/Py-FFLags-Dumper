@@ -186,7 +186,7 @@ class FFlagsDumper:
             f.write(f"// Roblox Version = {self.version}\n")
             f.write(f"// FFlagList RVA: 0x{self.fflags_ptr_rva:X}\n")
             f.write(f"// Total flags: {len(fflags)}\n")
-            f.write("// Discord: https://discord.gg/Dqtb9kY5uR\n")
+            f.write("// Discord: https://discord.gg/wjuacfY5ED\n")
             f.write(self._noah_art("//"))
             f.write("\n\n\n")
             f.write("namespace FFlags\n{\n")
@@ -202,7 +202,7 @@ class FFlagsDumper:
             f.write(f"# Roblox Version = {self.version}\n")
             f.write(f"# FFlagList RVA: 0x{self.fflags_ptr_rva:X}\n")
             f.write(f"# Total flags: {len(fflags)}\n")
-            f.write("# Discord: https://discord.gg/Dqtb9kY5uR\n")
+            f.write("# Discord: https://discord.gg/wjuacfY5ED\n")
             f.write(self._noah_art("#"))
             f.write("\n\n")
             f.write(f"FFlagList = 0x{self.fflags_ptr_rva:X}\n\n")
@@ -216,7 +216,7 @@ class FFlagsDumper:
             "version": self.version,
             "fflag_list_rva": f"0x{self.fflags_ptr_rva:X}",
             "total_flags": len(fflags),
-            "discord": "https://discord.gg/Dqtb9kY5uR",
+            "discord": "https://discord.gg/wjuacfY5ED",
             "flags": {}
         }
         for name, rva in fflags_sorted:
@@ -231,7 +231,7 @@ class FFlagsDumper:
             f.write(f"// Roblox Version = {self.version}\n")
             f.write(f"// FFlagList RVA: 0x{self.fflags_ptr_rva:X}\n")
             f.write(f"// Total flags: {len(fflags)}\n")
-            f.write("// Discord: https://discord.gg/Dqtb9kY5uR\n")
+            f.write("// Discord: https://discord.gg/wjuacfY5ED\n")
             f.write(self._noah_art("//"))
             f.write("\n")
             f.write("namespace Noah\n{\n")
